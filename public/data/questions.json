@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What's your ideal movie night vibe?",
+      "type": "single",
+      "answers": [
+        { "text": "Fireplace, warm blanket, zero distractions", "mood": "fireplace" },
+        { "text": "Cozy reading nook with tea and snacks", "mood": "rainy-day" },
+        { "text": "Late-night under stars with someone special", "mood": "summer" },
+        { "text": "Deep hibernation with all the comfort", "mood": "winter" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Pick a movie genre that speaks to you:",
+      "type": "single",
+      "answers": [
+        { "text": "Indie films & slow cinema", "mood": "minimal" },
+        { "text": "Rom-coms & feel-good stories", "mood": "summer" },
+        { "text": "Dark academia & mystery thrillers", "mood": "fireplace" },
+        { "text": "Adventure & escapism", "mood": "spring" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Your favorite season for staying in:",
+      "type": "single",
+      "answers": [
+        { "text": "Winter – hibernation season", "mood": "winter" },
+        { "text": "Autumn – crispy air & layers", "mood": "autumn" },
+        { "text": "Spring – fresh renewal", "mood": "spring" },
+        { "text": "Summer nights – outdoor retreats", "mood": "summer" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "How do you take your comfort?",
+      "type": "single",
+      "answers": [
+        { "text": "Wrapped in luxury fabrics", "mood": "fireplace" },
+        { "text": "With snacks & treats nearby", "mood": "rainy-day" },
+        { "text": "Minimal setup, maximum vibe", "mood": "minimal" },
+        { "text": "Surrounded by loved ones", "mood": "summer" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Your lighting preference:",
+      "type": "single",
+      "answers": [
+        { "text": "Soft amber glow (lamps, candles)", "mood": "fireplace" },
+        { "text": "Natural grey daylight", "mood": "rainy-day" },
+        { "text": "Bright & minimalist", "mood": "minimal" },
+        { "text": "Warm string lights & twinkle", "mood": "summer" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What's in your ideal setup?",
+      "type": "multiple",
+      "answers": [
+        { "text": "Throw blanket", "mood": "fireplace" },
+        { "text": "Hot beverage station", "mood": "rainy-day" },
+        { "text": "Curated design pieces", "mood": "minimal" },
+        { "text": "Extra seating for guests", "mood": "summer" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "How do you spend time before/after a film?",
+      "type": "single",
+      "answers": [
+        { "text": "Reflect quietly; journal thoughts", "mood": "minimal" },
+        { "text": "Discuss & debate with friends", "mood": "summer" },
+        { "text": "Extend the mood with a ritual", "mood": "fireplace" },
+        { "text": "Decompress with comfort rituals", "mood": "rainy-day" }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Pick the aesthetic that calls to you:",
+      "type": "single",
+      "answers": [
+        { "text": "Classic cinema elegance", "mood": "fireplace" },
+        { "text": "Soft, dreamy, ethereal", "mood": "summer" },
+        { "text": "Clean lines, gallery-like", "mood": "minimal" },
+        { "text": "Moody, atmospheric, mysterious", "mood": "rainy-day" }
+      ]
+    }
+  ]
+}

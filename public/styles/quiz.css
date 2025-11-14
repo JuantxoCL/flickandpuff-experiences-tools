@@ -1,0 +1,300 @@
+/* ============================================
+   QUIZ SPECIFIC STYLES
+   ============================================ */
+
+.quiz-container {
+    background: white;
+    border-radius: 8px;
+    padding: 40px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.quiz-content {
+    width: 100%;
+}
+
+.question-section {
+    margin: 30px 0;
+    min-height: 200px;
+}
+
+.question {
+    margin-bottom: 30px;
+}
+
+.question h2 {
+    font-size: 1.8rem;
+    color: var(--color-navy);
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.answers-grid {
+    display: grid;
+    gap: 12px;
+}
+
+.answer-option {
+    display: flex;
+    align-items: center;
+    padding: 16px;
+    border: 2px solid var(--color-border);
+    border-radius: 6px;
+    cursor: pointer;
+    transition: var(--transition);
+    background: white;
+}
+
+.answer-option:hover {
+    border-color: var(--color-amber);
+    background-color: rgba(201, 159, 92, 0.05);
+}
+
+.answer-option input[type="radio"],
+.answer-option input[type="checkbox"] {
+    margin-right: 12px;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    accent-color: var(--color-amber);
+}
+
+.answer-option label {
+    flex: 1;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.answer-option input:checked + label {
+    color: var(--color-navy);
+    font-weight: 600;
+}
+
+/* ============================================
+   BUTTON SECTION
+   ============================================ */
+
+.button-section {
+    display: flex;
+    gap: 16px;
+    margin-top: 40px;
+    justify-content: space-between;
+}
+
+.button-section .btn {
+    flex: 1;
+}
+
+/* ============================================
+   RESULTS SECTION
+   ============================================ */
+
+.results-container {
+    background: white;
+    border-radius: 8px;
+    padding: 40px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    animation: fadeIn 0.4s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.result-content {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.result-emoji {
+    font-size: 4rem;
+    margin-bottom: 16px;
+}
+
+.result-title {
+    font-size: 2.5rem;
+    color: var(--color-navy);
+    margin-bottom: 12px;
+    font-weight: 700;
+}
+
+.result-tagline {
+    font-size: 1.3rem;
+    color: var(--color-amber);
+    font-style: italic;
+    margin-bottom: 24px;
+}
+
+.result-description {
+    font-size: 1.1rem;
+    color: var(--color-text);
+    line-height: 1.8;
+    margin-bottom: 30px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.result-links {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 24px;
+}
+
+.result-link {
+    padding: 10px 16px;
+    background-color: rgba(201, 159, 92, 0.1);
+    border-radius: 4px;
+    text-decoration: none;
+    color: var(--color-amber);
+    font-weight: 600;
+    transition: var(--transition);
+    font-size: 0.9rem;
+}
+
+.result-link:hover {
+    background-color: rgba(201, 159, 92, 0.2);
+}
+
+/* ============================================
+   PRODUCTS SECTION
+   ============================================ */
+
+.result-products {
+    margin-top: 40px;
+    padding-top: 40px;
+    border-top: 2px solid var(--color-border);
+}
+
+.products-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.product-card {
+    text-align: center;
+    padding: 16px;
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    transition: var(--transition);
+}
+
+.product-card:hover {
+    border-color: var(--color-amber);
+    box-shadow: 0 4px 12px rgba(201, 159, 92, 0.15);
+}
+
+.product-name {
+    font-size: 0.95rem;
+    color: var(--color-navy);
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.product-price {
+    font-size: 1.1rem;
+    color: var(--color-amber);
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+.product-link {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: var(--color-amber);
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    transition: var(--transition);
+}
+
+.product-link:hover {
+    background-color: #B8885F;
+}
+
+/* ============================================
+   RESULT ACTIONS
+   ============================================ */
+
+.result-actions {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.result-actions .btn {
+    min-width: 140px;
+}
+
+/* ============================================
+   PRINT STYLES
+   ============================================ */
+
+@media print {
+    body {
+        background-color: white;
+    }
+
+    .button-section,
+    .result-actions {
+        display: none;
+    }
+
+    .quiz-container,
+    .results-container {
+        box-shadow: none;
+        page-break-inside: avoid;
+    }
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+
+@media (max-width: 768px) {
+    .quiz-container,
+    .results-container {
+        padding: 20px;
+    }
+
+    .result-title {
+        font-size: 2rem;
+    }
+
+    .result-emoji {
+        font-size: 3rem;
+    }
+
+    .button-section {
+        flex-direction: column;
+    }
+
+    .button-section .btn {
+        width: 100%;
+    }
+
+    .result-actions {
+        flex-direction: column;
+    }
+
+    .result-actions .btn {
+        width: 100%;
+    }
+
+    .products-grid {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    }
+}

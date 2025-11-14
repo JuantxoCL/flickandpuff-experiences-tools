@@ -1,0 +1,196 @@
+{
+  "results": [
+    {
+      "id": "fireplace",
+      "title": "Fireplace Vibes",
+      "emoji": "🔥",
+      "tagline": "Wrap yourself in warmth.",
+      "description": "You're drawn to rituals. Deep amber light, soft textures, and unrushed moments—this is your sanctuary. Fireplace Vibes are all about creating that timeless feeling: wrapped in layers, cradled in comfort, exactly where cinema magic happens.",
+      "ambientRoomUrl": "https://www.flickandpuff.com/pages/ambient-rooms-fireplace",
+      "playlistUrl": "https://open.spotify.com/playlist/2Qt5lj2uV72AvSD6IkDIgz",
+      "playlistName": "Fireplace Vibes",
+      "pinterestBoard": "https://pinterest.com/flickandpuff/fireplace-vibes",
+      "colors": ["#3C2F2F", "#C99F5C", "#f5f1e8"],
+      "products": [
+        {
+          "handle": "throw-blanket-cuddle-time-127-152-cm",
+          "title": "Silk Touch Throw Blanket \"Cuddle-time\"",
+          "price": 29.90,
+          "url": "https://www.flickandpuff.com/products/throw-blanket-cuddle-time-127-152-cm"
+        },
+        {
+          "handle": "poster-this-is-my-cinema-50-70-cm",
+          "title": "Poster \"This is my cinema.\"",
+          "price": 18.90,
+          "url": "https://www.flickandpuff.com/products/poster-this-is-my-cinema-50-70-cm"
+        },
+        {
+          "handle": "hardcover-bound-notebook-just-you-and-your-story-13-97-21-59-cm",
+          "title": "Hardcover Notebook \"Just you and your story.\"",
+          "price": 16.90,
+          "url": "https://www.flickandpuff.com/products/hardcover-bound-notebook-just-you-and-your-story-13-97-21-59-cm"
+        }
+      ]
+    },
+    {
+      "id": "rainy-day",
+      "title": "Rainy Day Refuge",
+      "emoji": "🌧️",
+      "tagline": "Cozy hibernation, no apologies.",
+      "description": "When grey skies call, you answer. Rainy Day Refuge is your permission to pause—to nest deep with tea, treats, and screen glow. It's moody, atmospheric, and unapologetically indulgent.",
+      "ambientRoomUrl": "https://www.flickandpuff.com/pages/ambient-rooms-rainy-day",
+      "playlistUrl": "https://open.spotify.com/playlist/2RFi54AqJyqP3IJ4J7jqt4",
+      "playlistName": "Rainy Day Reading",
+      "pinterestBoard": "https://pinterest.com/flickandpuff/rainy-day-refuge",
+      "colors": ["#7a7370", "#e8e3d8", "#f5f1e8"],
+      "products": [
+        {
+          "handle": "tote-bag-lost-in-chapters-39-39-cm",
+          "title": "Tote Bag \"Lost in chapters.\"",
+          "price": 19.90,
+          "url": "https://www.flickandpuff.com/products/tote-bag-lost-in-chapters-39-39-cm"
+        },
+        {
+          "handle": "hardcover-bound-notebook-just-you-and-your-story-13-97-21-59-cm",
+          "title": "Hardcover Notebook \"Just you and your story.\"",
+          "price": 16.90,
+          "url": "https://www.flickandpuff.com/products/hardcover-bound-notebook-just-you-and-your-story-13-97-21-59-cm"
+        },
+        {
+          "handle": "poster-silent-reels-loud-feelings-50-70-cm",
+          "title": "Poster \"Silent reels, loud feelings.\"",
+          "price": 18.90,
+          "url": "https://www.flickandpuff.com/products/poster-silent-reels-loud-feelings-50-70-cm"
+        }
+      ]
+    },
+    {
+      "id": "autumn",
+      "title": "Autumn Nesting",
+      "emoji": "🍂",
+      "tagline": "Crisp air. Layered vibes. Home is in season.",
+      "description": "September warmth fades to October crisp—and you're ready. Autumn Nesting celebrates the layer-up season: sweaters, throws, warm drinks, and the feeling that the world is finally asking you to slow down.",
+      "ambientRoomUrl": "https://www.flickandpuff.com/pages/ambient-rooms-autumn",
+      "playlistUrl": "https://open.spotify.com/playlist/2SQa8JHgHJQFaWRJwnj0sp",
+      "playlistName": "Autumn Nestling",
+      "pinterestBoard": "https://pinterest.com/flickandpuff/autumn-nesting",
+      "colors": ["#C99F5C", "#3C2F2F", "#e8e3d8"],
+      "products": [
+        {
+          "handle": "poster-no-spoilers-allowed-50-70-cm",
+          "title": "Poster \"No spoilers allowed\"",
+          "price": 18.90,
+          "url": "https://www.flickandpuff.com/products/poster-no-spoilers-allowed-50-70-cm"
+        },
+        {
+          "handle": "throw-blanket-cuddle-time-127-152-cm",
+          "title": "Silk Touch Throw Blanket \"Cuddle-time\"",
+          "price": 29.90,
+          "url": "https://www.flickandpuff.com/products/throw-blanket-cuddle-time-127-152-cm"
+        },
+        {
+          "handle": "insulated-tumbler-with-straw-sip-minimal-600-ml",
+          "title": "Insulated Tumbler SIP MINIMAL",
+          "price": 24.90,
+          "url": "https://www.flickandpuff.com/products/insulated-tumbler-with-straw-sip-minimal-600-ml"
+        }
+      ]
+    },
+    {
+      "id": "spring",
+      "title": "Spring Reset",
+      "emoji": "🌱",
+      "tagline": "New light. Fresh rituals. Renewal happens here.",
+      "description": "The world softens. Spring Reset is about letting in fresh air, softer palettes, and a sense of possibility. Minimal touches, natural light, and a feeling that you're starting fresh.",
+      "ambientRoomUrl": "https://www.flickandpuff.com/pages/ambient-rooms-spring",
+      "playlistUrl": "https://open.spotify.com/playlist/0TuQLAfaqpr3ERP6y46DL1",
+      "playlistName": "Cozy Night In",
+      "pinterestBoard": "https://pinterest.com/flickandpuff/spring-reset",
+      "colors": ["#f5f1e8", "#C99F5C", "#7a7370"],
+      "products": [
+        {
+          "handle": "poster-play-pause-feel-50-70-cm",
+          "title": "Poster \"Play, pause, feel.\"",
+          "price": 18.90,
+          "url": "https://www.flickandpuff.com/products/poster-play-pause-feel-50-70-cm"
+        },
+        {
+          "handle": "tote-bag-let-yourself-bloom-39-39-cm",
+          "title": "Tote Bag \"Let yourself bloom.\"",
+          "price": 19.90,
+          "url": "https://www.flickandpuff.com/products/tote-bag-let-yourself-bloom-39-39-cm"
+        },
+        {
+          "handle": "pillow-one-more-episode-please-45-45-cm",
+          "title": "Pillow \"One More Episode… Please…\"",
+          "price": 19.90,
+          "url": "https://www.flickandpuff.com/products/pillow-one-more-episode-please-45-45-cm"
+        }
+      ]
+    },
+    {
+      "id": "summer",
+      "title": "Summer Nights",
+      "emoji": "⭐",
+      "tagline": "Outdoor magic. Warm breezes. Connection.",
+      "description": "Long daylight, late-night adventures—Summer Nights are about gathering. Patios, garden lights, cooler drinks, and the kind of evenings that feel infinite.",
+      "ambientRoomUrl": "https://www.flickandpuff.com/pages/ambient-rooms-summer",
+      "playlistUrl": "https://open.spotify.com/playlist/0TuQLAfaqpr3ERP6y46DL1",
+      "playlistName": "Cozy Night In",
+      "pinterestBoard": "https://pinterest.com/flickandpuff/summer-nights",
+      "colors": ["#f5f1e8", "#7a7370", "#C99F5C"],
+      "products": [
+        {
+          "handle": "poster-cozy-night-movie-club-50-70-cm",
+          "title": "Poster \"Cozy night movie club\"",
+          "price": 18.90,
+          "url": "https://www.flickandpuff.com/products/poster-cozy-night-movie-club-50-70-cm"
+        },
+        {
+          "handle": "tote-bag-share-a-puff-of-kindness-on-every-scene-39-39-cm",
+          "title": "Tote Bag \"Share a puff of kindness on every scene.\"",
+          "price": 19.90,
+          "url": "https://www.flickandpuff.com/products/tote-bag-share-a-puff-of-kindness-on-every-scene-39-39-cm"
+        },
+        {
+          "handle": "pillow-one-more-episode-please-45-45-cm",
+          "title": "Pillow \"One More Episode… Please…\"",
+          "price": 19.90,
+          "url": "https://www.flickandpuff.com/products/pillow-one-more-episode-please-45-45-cm"
+        }
+      ]
+    },
+    {
+      "id": "winter",
+      "title": "Winter Solitude",
+      "emoji": "❄️",
+      "tagline": "Deep warmth. Quiet reflection. Pure sanctuary.",
+      "description": "Winter is for turning inward. Winter Solitude honors stillness, deep warmth, and the comfort of being exactly where you need to be. Blankets, silence, and the kind of cozy that feels like coming home.",
+      "ambientRoomUrl": "https://www.flickandpuff.com/pages/ambient-rooms-winter",
+      "playlistUrl": "https://open.spotify.com/playlist/76zI2Bw766e4chN25bewk7",
+      "playlistName": "Winter Solitude",
+      "pinterestBoard": "https://pinterest.com/flickandpuff/winter-solitude",
+      "colors": ["#3C2F2F", "#f5f1e8", "#e8e3d8"],
+      "products": [
+        {
+          "handle": "throw-blanket-cuddle-time-127-152-cm",
+          "title": "Silk Touch Throw Blanket \"Cuddle-time\"",
+          "price": 29.90,
+          "url": "https://www.flickandpuff.com/products/throw-blanket-cuddle-time-127-152-cm"
+        },
+        {
+          "handle": "poster-warning-in-this-house-we-press-play-50-70-cm",
+          "title": "Poster \"Warning! In this house we press play\"",
+          "price": 18.90,
+          "url": "https://www.flickandpuff.com/products/poster-warning-in-this-house-we-press-play-50-70-cm"
+        },
+        {
+          "handle": "insulated-tumbler-with-straw-sip-minimal-600-ml",
+          "title": "Insulated Tumbler SIP MINIMAL",
+          "price": 24.90,
+          "url": "https://www.flickandpuff.com/products/insulated-tumbler-with-straw-sip-minimal-600-ml"
+        }
+      ]
+    }
+  ]
+}
